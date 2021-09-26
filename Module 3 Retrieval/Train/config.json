@@ -1,0 +1,15 @@
+{
+"batch_size": 8,
+"dropout": 0.5,
+"learning_rate": 0.0001,
+"optimizer": "Adam",
+"num_epochs": 50,
+"wd": 0,
+"margin": 0.2,
+"max_violation": "True",
+"fine_tune": "True",
+"category" : "upper_body",
+"limit_descending" : 2,
+"limit_patience" : 8,
+"model" : "MobileNet"
+}
