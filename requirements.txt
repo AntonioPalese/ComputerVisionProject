@@ -1,0 +1,10 @@
+pytorch
+torchvision
+cudatoolkit
+pandas
+numpy
+matplotlib
+tqdm
+json
+
+
